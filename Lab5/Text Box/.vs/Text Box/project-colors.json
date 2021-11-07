@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b3c56a2-68e5-48ac-bb8a-3e243082a393": {
+      "ProjectGuid": "8b3c56a2-68e5-48ac-bb8a-3e243082a393",
+      "DisplayName": "Text Box",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

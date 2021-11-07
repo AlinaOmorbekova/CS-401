@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# lessons\Text Box\bin\Debug\Text Box.exe.config
+C:\Users\User\Desktop\C# lessons\Text Box\bin\Debug\Text Box.exe
+C:\Users\User\Desktop\C# lessons\Text Box\bin\Debug\Text Box.pdb
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text Box.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text Box.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text_Box.Form1.resources
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text_Box.Properties.Resources.resources
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text Box.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text Box.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text Box.exe
+C:\Users\User\Desktop\C# lessons\Text Box\obj\Debug\Text Box.pdb
