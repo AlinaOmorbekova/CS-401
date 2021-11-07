@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# lessons\Message Box\bin\Debug\Message Box.exe.config
+C:\Users\User\Desktop\C# lessons\Message Box\bin\Debug\Message Box.exe
+C:\Users\User\Desktop\C# lessons\Message Box\bin\Debug\Message Box.pdb
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message Box.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message_Box.Form1.resources
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message_Box.Properties.Resources.resources
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message Box.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message Box.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message Box.exe
+C:\Users\User\Desktop\C# lessons\Message Box\obj\Debug\Message Box.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adaa5967-e204-4123-b49a-f9ef10462ab3": {
+      "ProjectGuid": "adaa5967-e204-4123-b49a-f9ef10462ab3",
+      "DisplayName": "Message Box",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
