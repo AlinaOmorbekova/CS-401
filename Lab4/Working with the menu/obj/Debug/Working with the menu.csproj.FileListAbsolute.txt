@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# lessons\Working with the menu\bin\Debug\Working with the menu.exe.config
+C:\Users\User\Desktop\C# lessons\Working with the menu\bin\Debug\Working with the menu.exe
+C:\Users\User\Desktop\C# lessons\Working with the menu\bin\Debug\Working with the menu.pdb
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working with the menu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working with the menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working_with_the_menu.Form1.resources
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working_with_the_menu.Properties.Resources.resources
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working with the menu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working with the menu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working with the menu.exe
+C:\Users\User\Desktop\C# lessons\Working with the menu\obj\Debug\Working with the menu.pdb
