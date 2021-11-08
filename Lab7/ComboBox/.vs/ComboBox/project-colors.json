@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbe499a9-d55b-47d0-aeb1-2c23bba0be67": {
+      "ProjectGuid": "dbe499a9-d55b-47d0-aeb1-2c23bba0be67",
+      "DisplayName": "ComboBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
