@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acd2390e-3607-4d42-85ce-26f297f84b14": {
+      "ProjectGuid": "acd2390e-3607-4d42-85ce-26f297f84b14",
+      "DisplayName": "CheckedListBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

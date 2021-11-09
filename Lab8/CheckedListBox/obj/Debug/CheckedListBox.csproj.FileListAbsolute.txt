@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# lessons\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+C:\Users\User\Desktop\C# lessons\CheckedListBox\bin\Debug\CheckedListBox.exe
+C:\Users\User\Desktop\C# lessons\CheckedListBox\bin\Debug\CheckedListBox.pdb
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.Properties.Resources.resources
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.exe
+C:\Users\User\Desktop\C# lessons\CheckedListBox\obj\Debug\CheckedListBox.pdb
